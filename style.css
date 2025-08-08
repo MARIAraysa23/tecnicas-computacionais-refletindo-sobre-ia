@@ -9,8 +9,8 @@
 }
   
 body {
-    background-color: var(--cor-fundo);
-    color: var(--cor-texto);
+    background-color: rosa(--cor-fundo);
+    color: blue(--cor-texto);
     font-family: 'Inter', sans-serif;
     display: flex;
     justify-content: center;
@@ -60,4 +60,5 @@ button:hover {
     display: flex;
     flex-direction: column;
     gap: 10px;
+
 }
